@@ -1,4 +1,4 @@
-# global-inequality-scientific-poster
+# global-inequality-scientific-poster (simulation-based study)
 
 # Does Place of Birth Matter? – Education, Knowledge and Well-being
 Project Overview: Visual Analysis of Global Inequalities
